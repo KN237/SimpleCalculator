@@ -1,16 +1,19 @@
-# calculator
 
-A new Flutter project.
 
-## Getting Started
+<div  align='center'>
+ <h1 align='center'> Simple Calculator</h1>
 
-This project is a starting point for a Flutter application.
+![badge-1](https://img.shields.io/badge/Dart-Flutter-blue)
+![badge-1](https://img.shields.io/badge/Languages-+2-yellow)
+![badge-1](https://img.shields.io/badge/Version-1.0.0-blue?logo=github&style=social)
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div  align='center'>
+<image src='./1.jpg' alt='screenshot' width="300px"/> 
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# :thought_balloon: Inspiration
+
+
+<p align='center'> Made with ❤️ by WKN 👋🏻 </p>
